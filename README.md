@@ -1,5 +1,7 @@
 # Sponsor-Page
 
+## 😋MarkDown文档部分内容显示不出来，最好可以看这个——[README.html](README.html)
+
 ### 一、项目简介
 
 [sponsor-page](https://github.com/Kaiyuan/sponsor-page)是一个开源的捐赠按钮样式，可以用于美化我们的博客。
