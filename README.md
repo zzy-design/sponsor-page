@@ -1,6 +1,6 @@
-# Sponsor-Page
+# Sponsor-Page 捐赠小部件
 
-## 😋MarkDown文档部分内容显示不出来，最好可以看这个——[README.html](README.html)
+## 😋MarkDown文档部分内容显示不出来，最好可以来我的[博客](https://kelecn.top/posts/34795/)看完整介绍哦。
 
 ### 一、项目简介
 
